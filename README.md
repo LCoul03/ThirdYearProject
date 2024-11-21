@@ -1,3 +1,22 @@
+
+Self Sovereign Identity Web Application
+
+Lancaster University Third Year Project
+
+-
+Using the ACA-Py Hyper Ledger Aries Repository to produce a decentralised authroisation and verification method for ownership and sale of vehicles
+
+
+------
+
+
+
+
+
+
+
+
+
 # ACA-Py -- A Cloud Agent - Python  <!-- omit in toc -->
 
 🚨 **ACA-Py is transitioning to the [OpenWallet Foundation] (OWF)!** 🚨
